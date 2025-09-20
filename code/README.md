@@ -37,7 +37,7 @@ The application will be available at `http://localhost:5173`
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Swayamug23/SIH_2025_Internal_Round_Submission
+git clone https://github.com/Swayamug23/SIH_2025_Internal_Round_Submission.git
 cd REPO_DIRECTORY
 
 # Install dependencies
